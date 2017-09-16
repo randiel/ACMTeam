@@ -1,0 +1,3 @@
+/home/randiel/CLionProjects/POOExample/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/randiel/CLionProjects/POOExample/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/randiel/CLionProjects/POOExample/cmake-build-debug/CMakeFiles/Choferbot.dir
